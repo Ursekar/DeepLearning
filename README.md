@@ -1,1 +1,3 @@
-This project identifies 102 breeds of flower. The .py files of train, checkpoint, test are application version of i.pynb file. They allow us to define hidden layers, learning rate, model to choose from vgg16 or densenet121, number of epochs and print output after certain batches while training. Thus this is a provision for user to tweak the model parameters and make most out of the model within the defined framework.
+# AI Programming with Python Project
+
+Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
